@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Saurabh</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasaurabh025&label=Profile%20views&color=0e75b6&style=flat" alt="adityasaurabh025" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasaurabh025&label=Profile%20views&color=0e75b6&style=flat" alt="Itsaditya25" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Itsaditya25" target="blank"><img src="https://img.shields.io/twitter/follow/adityasaurabh25?logo=twitter&style=for-the-badge" alt="adityasaurabh25" /></a> </p>
 
