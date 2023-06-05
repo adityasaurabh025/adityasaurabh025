@@ -71,10 +71,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->   
-<!-- BLOG-POST-LIST:END -->  
-
 <br/>  
 
 <div align="center"><img src="https://adityasaurabh025.github.io/static/images/spotify-readme-example.svg" /></div>  
