@@ -71,12 +71,6 @@
 <br/>  
 
 
-<br/>  
-
-<div align="center"><img src="https://adityasaurabh025.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adityasaurabh025&&style=flat-square" align="center" />
 </div>  
