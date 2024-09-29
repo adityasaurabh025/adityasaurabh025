@@ -2,7 +2,7 @@
 </div>  
   
 
-🌱 I’m currently learning Blockchain and Cloud.
+🌱 I’m currently learning GenAI and Cloud.
 
 👯 I’m looking to collaborate on Cloud and Open-Source.
 
